@@ -19,7 +19,7 @@ Terraform instalado (qualquer versão igual ou acima de 1.0.0)
 # clonar repositório
 git clone https://github.com/Marlonlugli/sites3-viacep-terraform
 
-# entrar na pasta do projeto back end
+# entrar na pasta do projeto
 cd sites3-viacep-terraform
 
 # executar o projeto
