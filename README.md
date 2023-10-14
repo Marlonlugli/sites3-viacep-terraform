@@ -12,8 +12,8 @@ Projeto realizado com o objetivo de automatizar a criação de um site estático
 
 # Como executar o projeto
 
-## Back end
-Pré-requisitos: Terraform instalado (qualquer versão igual ou acima de 1.0.0)
+## Pré-requisitos:
+Terraform instalado (qualquer versão igual ou acima de 1.0.0)
 
 ```bash
 # clonar repositório
