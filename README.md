@@ -14,6 +14,7 @@ Projeto realizado com o objetivo de automatizar a criação de um site estático
 
 ## Pré-requisitos:
 Terraform instalado (qualquer versão igual ou acima de 1.0.0)
+Ter suas credenciais AWS configuradas e permissões necessárias no AWS IAM do seu usuário.
 
 ```bash
 # clonar repositório
