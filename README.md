@@ -26,7 +26,7 @@ cd sites3-viacep-terraform
 # executar o projeto
 terraform init
 
-terraform plan (opcional)
+terraform plan # (opcional)
 
 terraform apply
 ```
